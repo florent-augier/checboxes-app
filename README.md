@@ -2,7 +2,7 @@
 
 This is a little basic checkboxes app (not optimized) showing how to manage `<ìnput type="checkbox" />` state throught the power of [React](https://github.com/facebook/create-react-app)
 
-If you want to go to the app directly, go to the [Checkboxes App]()
+If you want to go to the app directly, go to the [Checkboxes App](https://checkboxes-app.netlify.app).
 
 ## Table of contents
 
